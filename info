@@ -1,0 +1,40 @@
+Linux archlinux 6.18.5-arch1-1 #1 SMP PREEMPT_DYNAMIC Sun, 11 Jan 2026 17:10:53 +0000 x86_64 GNU/Linux
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 772460  bytes 1161602341 (1.0 GiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 772460  bytes 1161602341 (1.0 GiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.248.95.109  netmask 255.255.240.0  broadcast 10.248.95.255
+        inet6 fe80::aa63:263f:901:cf73  prefixlen 64  scopeid 0x20<link>
+        ether 18:93:41:c7:c6:ee  txqueuelen 1000  (Ethernet)
+        RX packets 17714816  bytes 18664663626 (17.3 GiB)
+        RX errors 0  dropped 190  overruns 0  frame 0
+        TX packets 23227724  bytes 19812109125 (18.4 GiB)
+        TX errors 0  dropped 276 overruns 0  carrier 0  collisions 0
+
+zt6q3d6i6b: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 2800
+        inet 10.80.82.244  netmask 255.255.255.0  broadcast 10.80.82.255
+        inet6 fe80::cc3f:deff:feb5:20d4  prefixlen 64  scopeid 0x20<link>
+        ether ce:3f:de:b5:20:d4  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3054  bytes 502600 (490.8 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archlinux.org/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
+issa
